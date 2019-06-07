@@ -59,7 +59,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 ### 2. Create  and run this lab's notebook
 
-2.1 Login to Watson Studio [https://dataplatform.cloud.ibm.com/] (https://dataplatform.cloud.ibm.com/)
+2.1 Login to Watson Studio [https://dataplatform.cloud.ibm.com/](https://dataplatform.cloud.ibm.com/)
 
 2.2 From the Watson Studio home page click on **Create a project**
 
