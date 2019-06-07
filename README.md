@@ -63,7 +63,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 2.2 From the Watson Studio home page click on **Create a project**
 
-2.3 Select a **Standard** project type and click **Create Project**
+2.3 Select a **Standard** project type and click **Create**
 ![Jupyter Notebook](images/ss7.png)
 
 2.3 Name the project *Earnings Call Highlights*
@@ -82,7 +82,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 2.3 Name the Notebook *Earnings Call Highlights* . Select **From URL** and copy the following URL into the **Notebook URL** field and then click **Create Notebook**
 
 ```
-https://raw.githubusercontent.com/djccarew/timeseries-rnn-lab-part1/master/oilpricernn.ipynb
+https://github.com/ibm-ai-education/watson-tone-analyzer-nlu-lab/blob/master/earnings-highlights.ipynb
 ```
 
 ![Create Notebook](images/ss9.png)
