@@ -1,6 +1,8 @@
 # Analyze earnings call transcripts with Watson Tone Analyzer and Natural Language Understanding
 
-This lab uses the Tone Analyzer service to extract the most positive sentences  from earnings call transcripts and then runs those remarks through the Natural Language Understanding  service to extract the most relevant keywords and Semantic Roles  from those  sentences .
+This lab uses the Tone Analyzer service to extract the highlights  from earnings call transcripts and then runs those remarks through the Natural Language Understanding  service to extract the most relevant keywords and Semantic Roles  from those  sentences .
+
+In the context of earnings calls there is strong correlation between the amount  of joy measured by the Watson Tone Analyzer service and the highlights of the call. Further screening can be done using the output of the  NLU service to further categorize each highlight identified. 
 
 After creating instances of Tone Analyzer and Natural Language Understanding, you'll test drive the scenario with a Python application in a Jupyter notebook using Watson Studio.
 
