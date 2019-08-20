@@ -36,7 +36,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 1.2.6 Click on **View Credentials**
 
-1.2.7 Click on the icon to copy the credentials to the clipboard and then save them in a text file on your Desktop (or some other convenient location). You'll need the **apikey** value later in the lab.
+1.2.7 Click on the icon to copy the credentials to the clipboard and then save them in a text file on your Desktop (or some other convenient location). You'll need the **apikey** and the service **url** value later in the lab.
 ![api_key](images/ss5.png)
 
 ### 1.3 Create an instance of the Watson Natural Language Understanding Service
@@ -61,7 +61,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 ### 2. Create  and run this lab's notebook
 
-2.1 Login to Watson Studio [https://dataplatform.cloud.ibm.com/](https://dataplatform.cloud.ibm.com/)
+2.1 Login to your [Watson Studio instance](https://cloud.ibm.com/resources?search=watson%20studio/)
 
 2.2 From the Watson Studio home page click on **Create a project**
 
