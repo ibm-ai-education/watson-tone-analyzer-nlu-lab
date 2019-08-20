@@ -57,7 +57,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 1.3.6 Click on **View Credentials**
 
-1.3.7 Click on the icon to copy the credentials to the clipboard and then save them in a text file on your Desktop (or some other convenient location). You'll need the **apikey** value later in the lab.
+1.3.7 Click on the icon to copy the credentials to the clipboard and then save them in a text file on your Desktop (or some other convenient location). You'll need the **apikey** and the service **url** value later in the lab.
 
 ### 2. Create  and run this lab's notebook
 
